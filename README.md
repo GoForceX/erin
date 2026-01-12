@@ -196,7 +196,9 @@ ruff check .
 
 ## 许可证
 
-[添加您的许可证信息]
+本项目采用 [WTFPL](LICENSE) (Do What The F*ck You Want To Public License) 许可证。
+
+你可以自由地使用、修改、分发本项目的代码，无需任何限制。
 
 ## 贡献
 
